@@ -1,0 +1,16 @@
+1.Download node.js if it is not there in the system
+2.install it 
+3.create a folder in vs code,name it.
+4.go to the terminal
+5.npx create-expo-app@latest FundamentalsApp
+(here FundamentalsApp is my project name)
+-- this command will create an app
+6.then navigate to the app
+cd FundamentalsApp
+7.npm run reset-project
+run this command
+8.to use this app in browser or mobile 
+npx expo start
+run this command
+9.to see the app in browser click w
+
