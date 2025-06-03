@@ -1,0 +1,13 @@
+certain conventions should be followed on how an application should look like 
+the folder structure says it all 
+it is determined by organising
+to get a boiler plate use the 
+download an extension e7+react+react native
+type rnsf and press tab key
+
+for hyperlinking
+import{Link}from "expo-router";
+type this in index.tsx
+<Link href="/about">about</Link>
+      <Link href="/profile">profile</Link>
+link in this way 
