@@ -1,0 +1,10 @@
+What is Expo Router?
+– A file-based routing library built with React Native and web applications using Expo.
+
+– This is considered better compared to React Navigation because:
+
+1.Expo Router applications are fast.
+
+2.No manual navigation setup is required.
+
+3.It is better suited for cross-platform applications.
